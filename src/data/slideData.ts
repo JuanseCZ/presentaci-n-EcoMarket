@@ -391,7 +391,7 @@ const useProducts = () => {
     subtitle: '¿Preguntas?',
     contact: {
       email: 'equipo@ecomarket.com',
-      github: 'github.com/UTCH-EcoMarket',
+      github: 'github.com/JuanseCZ/presentaci-n-EcoMarket.git',
       linkedin: 'linkedin.com/company/ecomarket'
     },
     type: 'thanks'
