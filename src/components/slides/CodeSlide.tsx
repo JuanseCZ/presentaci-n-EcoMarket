@@ -28,12 +28,6 @@ const CodeSlide: React.FC<CodeSlideProps> = ({ slide }) => {
           <code>{slide.code}</code>
         </pre>
       </div>
-      
-      <div className="mt-8 flex justify-center animate-fade-in" style={{animationDelay: '0.5s'}}>
-        <div className="px-4 py-2 bg-green-600 text-white rounded-md text-sm hover:bg-green-700 transition-colors cursor-pointer">
-          Ejecutar código
-        </div>
-      </div>
     </div>
   );
 };
